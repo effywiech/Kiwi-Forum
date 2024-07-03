@@ -38,3 +38,6 @@ Courses offered: "How to be a well behaved cat" "WORLD DOMINATION"
   
 </ul>
 <h3>ERROR HANDLING</h3>
+<ul>
+  <li>Custom error messages and HTTP status codes are returned for invalid requests.</li>
+</ul>
